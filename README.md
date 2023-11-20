@@ -1,3 +1,3 @@
 # belajar-kolaborasi
 
-Membuat commit baru untuk squashing!
+Membuat commit baru untuk squashing!.
